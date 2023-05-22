@@ -39,12 +39,16 @@ Saya Muhamad Firdaus [2101995] mengerjakan soal TP 3 dalam mata kuliah DPBO untu
 ## Dokumentasi
 ### Anime
 1. Add
+
 https://github.com/dauspairet/TP3DPBO2023/assets/100768773/e29baedb-fc15-42f5-8f94-9a1565055e4c
 
 2. Detail-Edit-Delete
+
 https://github.com/dauspairet/TP3DPBO2023/assets/100768773/0b319176-76e3-428e-ba7f-d5e2edccf21f
 
 3. Search
+
+
 https://github.com/dauspairet/TP3DPBO2023/assets/100768773/cdd46288-d017-4783-a4b8-35e796be16d5
 
 ### Genre
