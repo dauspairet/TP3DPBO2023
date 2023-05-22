@@ -1,6 +1,6 @@
 # TP3DPBO2023
 
-Saya Muhamad Firdaus [2101995] mengerjakan soal TP 2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Muhamad Firdaus [2101995] mengerjakan soal TP 3 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Tugas
 - Program bebas, kecuali program Ormawa
