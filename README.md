@@ -37,3 +37,8 @@ Saya Muhamad Firdaus [2101995] mengerjakan soal TP 3 dalam mata kuliah DPBO untu
 </div>
 
 ## Dokumentasi
+    ### Anime
+    
+    ### Genre
+    
+    ### Studio
