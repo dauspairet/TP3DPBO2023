@@ -32,5 +32,8 @@ Saya Muhamad Firdaus [2101995] mengerjakan soal TP 3 dalam mata kuliah DPBO untu
     - Dapat melakukan tambah, edit, dan hapus studio.
 
 ## Desain
+<div align="center">
+    <img src="https://github.com/dauspairet/TP3DPBO2023/blob/main/Desain%20database/desain_db.jpg" alt="desain_db">
+</div>
 
 ## Dokumentasi
