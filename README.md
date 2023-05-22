@@ -53,34 +53,54 @@ https://github.com/dauspairet/TP3DPBO2023/assets/100768773/cdd46288-d017-4783-a4
 
 ### Genre
 1. Add
+
+
 https://github.com/dauspairet/TP3DPBO2023/assets/100768773/6653ed27-c339-42c8-b906-5f1a02990ca4
 
 2. Edit
+
+
 https://github.com/dauspairet/TP3DPBO2023/assets/100768773/67e7590c-0bd2-4099-9d5e-40729ddb1450
 
 3. Delete
+
+
 https://github.com/dauspairet/TP3DPBO2023/assets/100768773/8324ed28-1460-401a-9622-687f768a1994
 
 4. Filter
+
+
 https://github.com/dauspairet/TP3DPBO2023/assets/100768773/e130e520-75ba-4c14-b1a3-b42e30c0cd59
 
 5. Search
+
+
 https://github.com/dauspairet/TP3DPBO2023/assets/100768773/5aab57f8-0ad1-4f16-a5ec-48b505f20f53
 
 ### Studio    
 1. Add
+
+
 https://github.com/dauspairet/TP3DPBO2023/assets/100768773/bc7a6435-1e9e-41b2-9ad4-ab1d0fcb6acd
 
 2. Edit
+
+
 https://github.com/dauspairet/TP3DPBO2023/assets/100768773/672eb30a-9557-4d02-be5e-19a0cfa844df
 
 3. Delete
+
+
 https://github.com/dauspairet/TP3DPBO2023/assets/100768773/63690e87-2d37-410e-ab5a-61d33d44514a
 
 4. Filter
+
+
 https://github.com/dauspairet/TP3DPBO2023/assets/100768773/794519a1-f9bd-40d0-80fc-50dedeec69dd
 
 5. Search
+
+
 https://github.com/dauspairet/TP3DPBO2023/assets/100768773/2e1d2ae3-8a2e-4060-979f-f3d7c048f566
 
 
